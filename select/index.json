@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Flashpoint",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2025-12-02T05:05:36.557377Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flashpoint: Catheter",
+      "artist": "Cap'n Jazz",
+      "has_synced": false,
+      "path": "select/01_Flashpoint__Catheter_Cap'n_Jazz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flashpoint",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/02_Flashpoint_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flashpoint",
+      "artist": "Hybrid",
+      "has_synced": false,
+      "path": "select/03_Flashpoint_Hybrid.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flashpoint Serenade",
+      "artist": "Tokyo Blade",
+      "has_synced": false,
+      "path": "select/04_Flashpoint_Serenade_Tokyo_Blade.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flashpoint (Chosen Few Mix)",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/05_Flashpoint_(Chosen_Few_Mix)_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burn (Flashpoint)",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/06_Burn_(Flashpoint)_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flashpoint Riot",
+      "artist": "Julien-K",
+      "has_synced": true,
+      "path": "select/07_Flashpoint_Riot_Julien-K.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flashpoint",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_Flashpoint_ReGLOSS.txt"
+    }
+  ]
+}
